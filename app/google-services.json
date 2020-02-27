@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "224214004312",
+    "firebase_url": "https://socauth-5fba2.firebaseio.com",
+    "project_id": "socauth-5fba2",
+    "storage_bucket": "socauth-5fba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224214004312:android:fcfe7396fc0ca9ee66102d",
+        "android_client_info": {
+          "package_name": "com.bhavik.logindemo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224214004312-22l1lt1tp5e77b9h23e0onfto5qkjbp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhavik.logindemo2",
+            "certificate_hash": "7a5a7373cd1910def960b72da666ce70d0bdffac"
+          }
+        },
+        {
+          "client_id": "224214004312-d93s7tauir6m8bs803vn2tvbvnbad4g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTy7tmusQUwq5pYGvTV1c4gBkT6tPQmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224214004312-d93s7tauir6m8bs803vn2tvbvnbad4g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224214004312:android:38099228f031b03b66102d",
+        "android_client_info": {
+          "package_name": "com.bhavik.socauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224214004312-snkji1ejrg5n961nqfcrdk4tto7eakvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhavik.socauth",
+            "certificate_hash": "7a5a7373cd1910def960b72da666ce70d0bdffac"
+          }
+        },
+        {
+          "client_id": "224214004312-d93s7tauir6m8bs803vn2tvbvnbad4g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTy7tmusQUwq5pYGvTV1c4gBkT6tPQmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224214004312-d93s7tauir6m8bs803vn2tvbvnbad4g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224214004312:android:17a4586648714a7666102d",
+        "android_client_info": {
+          "package_name": "com.vamsi.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224214004312-0g2obtobmi2u6jg1ut0uhsjuvb10mi9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vamsi.login",
+            "certificate_hash": "7a5a7373cd1910def960b72da666ce70d0bdffac"
+          }
+        },
+        {
+          "client_id": "224214004312-d93s7tauir6m8bs803vn2tvbvnbad4g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTy7tmusQUwq5pYGvTV1c4gBkT6tPQmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224214004312-d93s7tauir6m8bs803vn2tvbvnbad4g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
